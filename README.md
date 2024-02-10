@@ -21,7 +21,7 @@ This project is a replica of the Spotify web page, created as part of the Alura 
 
 ## Usage
 
-- Open [site](https://luizmorato.github.io/spotify-clone/) in your web browser.
+- Open [site](https://spotify-clone-delta-eight-30.vercel.app/) in your web browser.
 
 Feel free to explore, modify, and use this project as a learning resource.
 
